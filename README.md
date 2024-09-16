@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sc5271027@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-BfEoF2SgV6uatRsZDlERXF3IslkgJXW/view?usp=sharing](https://drive.google.com/file/d/1-BfEoF2SgV6uatRsZDlERXF3IslkgJXW/view?usp=sharing)
+- 📄 Know More about me- [My CV](https://drive.google.com/file/d/1ZuWg2-om2AT0dNWsyS6qqsEcdabNNW9Y/view?usp=sharing)
 
 - ⚡ Fun fact **I can sing 😊😁:)**
 
