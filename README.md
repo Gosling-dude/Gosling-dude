@@ -6,9 +6,7 @@
 
 - 💬 Ask me about **java, DSA, Android development**
 
-- 📫 How to reach me **sc5271027@gmail.com**
-
-- 📄 Know More about me- [My CV](https://drive.google.com/file/d/1k73R7LnO0XXm8SQiY4UJlAHsla1NSQXG/view?usp=sharing)
+- 📫 How to reach me **trueonefalsezero@gmail.com**
 
 - ⚡ Fun fact **I can sing 😊😁:)**
 
