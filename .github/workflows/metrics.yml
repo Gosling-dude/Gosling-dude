@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Every Monday
+    - cron: "0 0 * * 1"  # Runs every Monday at midnight
   workflow_dispatch:
 
 jobs:
@@ -11,10 +11,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+
+          # Core GitHub plugins
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -22,6 +23,16 @@ jobs:
           plugin_followup: yes
           plugin_achievements: yes
           plugin_traffic: yes
+
+          # LeetCode
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_user: sumit_chauhan143
+          plugin_leetcode_sections: solved, skills, recent
+
+          # GFG
+          plugin_gfg: yes
+          plugin_gfg_user: sumit_chauhan143
+
+          # CodeChef
+          plugin_codechef: yes
+          plugin_codechef_user: sumit_chauhan
