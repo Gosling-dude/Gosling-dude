@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * 1"  # Runs every Monday at midnight
+    - cron: "0 0 * * 1"  # Every Monday
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          user: Gosling-dude
+          output_action: commit
           config_timezone: Asia/Kolkata
+          
+          base: header, activity, community, repositories, metadata
 
-          # Core GitHub plugins
+          # GitHub plugins
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -29,10 +32,10 @@ jobs:
           plugin_leetcode_user: sumit_chauhan143
           plugin_leetcode_sections: solved, skills, recent
 
-          # GFG
-          plugin_gfg: yes
-          plugin_gfg_user: sumit_chauhan143
+          # GFG (only works with custom fork or plugin support)
+          # plugin_gfg: yes
+          # plugin_gfg_user: sumit_chauhan143
 
-          # CodeChef
-          plugin_codechef: yes
-          plugin_codechef_user: sumit_chauhan
+          # CodeChef (only works with custom fork or plugin support)
+          # plugin_codechef: yes
+          # plugin_codechef_user: sumit_chauhan
