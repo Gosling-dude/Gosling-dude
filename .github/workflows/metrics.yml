@@ -24,7 +24,10 @@ jobs:
           plugin_languages: yes
           plugin_stars: yes
           plugin_followup: yes
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_traffic: yes
+          plugin_leetcode: no
+    
+
 
          
