@@ -27,15 +27,4 @@ jobs:
           plugin_achievements: yes
           plugin_traffic: yes
 
-          # LeetCode
-          plugin_leetcode: yes
-          plugin_leetcode_user: sumit_chauhan143
-          plugin_leetcode_sections: solved, skills, recent
-
-          # GFG (only works with custom fork or plugin support)
-          # plugin_gfg: yes
-          # plugin_gfg_user: sumit_chauhan143
-
-          # CodeChef (only works with custom fork or plugin support)
-          # plugin_codechef: yes
-          # plugin_codechef_user: sumit_chauhan
+         
