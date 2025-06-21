@@ -58,16 +58,11 @@
   </a>
 </p>
 
+
+
 ---
 
 ### 📊 GitHub Stats:
 
 ![Metrics](https://github.com/gosling-dude/gosling-dude/blob/main/github-metrics.svg)
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gosling-dude&show_icons=true&locale=en" alt="gosling-dude stats" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gosling-dude" alt="gosling-dude streak" />
-</p>
