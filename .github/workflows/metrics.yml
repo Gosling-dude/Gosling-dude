@@ -15,19 +15,18 @@ jobs:
           user: Gosling-dude
           output_action: commit
           config_timezone: Asia/Kolkata
-          
+          markdown_cache: no
+
           base: header, activity, community, repositories, metadata
 
-          # GitHub plugins
+          # GitHub plugins (only working plugins)
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_stars: yes
           plugin_followup: yes
-          plugin_achievements: no
           plugin_traffic: yes
+
+          # Disable broken or unneeded plugins
+          plugin_achievements: no
           plugin_leetcode: no
-    
-
-
-         
