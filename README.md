@@ -45,6 +45,13 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github.com/gosling-dude/gosling-dude/blob/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+---
 ### 👨‍💻 Code. Compete. Conquer.
 
 <p align="center">
@@ -69,14 +76,6 @@
   <a href="https://auth.geeksforgeeks.org/user/sumit_chauhan143/" title="GeeksforGeeks">
     <img src="https://img.shields.io/badge/GFG-1985%2B-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Rating" />
   </a>
-</p>
-
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/gosling-dude/gosling-dude/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
