@@ -15,8 +15,7 @@
 
 - 🎓 CSE Undergraduate @ **NIT Jalandhar**  
 - 🔭 Currently Working On: `HerbiGPT`, `MedScan`  
-- 🤝 Helping peers with CS fundamentals & career guidance  
-- 💬 Ask me about: `Java`, `DSA`, `Competitive Programming`, `Android`, `Career doubts`  
+- 💬 Ask me about: `Java`, `DSA`, `Competitive Programming`  
 - 📫 Drop a message: **hello.sumitxchauhan@gmail.com**  
 - 🎵 *I sing better than I debug 😄*
 
