@@ -21,27 +21,25 @@
 - 🎵 *I sing better than I debug 😄*
 
 ---
-
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-00599C?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://x.com/SumitCh48587631"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="36" /></a>
-  <a href="https://linkedin.com/in/sumit-chauhan-006399257/"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" /></a>
-  <a href="https://leetcode.com/sumit_chauhan_/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="36" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/sumit_chauhan143"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="36" /></a>
+  <a href="https://x.com/SumitCh48587631">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="48" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sumit-chauhan-006399257/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/sumit_chauhan_/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" alt="LeetCode" />
+  </a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sumit_chauhan143">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" alt="GeeksforGeeks" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/SumitXorY">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3629282-3031869.png" width="48" alt="Codeforces" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/sumit_chauhan">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="48" alt="CodeChef" />
+  </a>
 </p>
 
 ---
