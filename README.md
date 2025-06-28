@@ -64,19 +64,29 @@
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/SumitXorY" title="Codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-1250-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating" />
+    <img
+      src="https://img.shields.io/badge/Codeforces-1397%2B-blue?style=for-the-badge&logo=codeforces&logoColor=white"
+      alt="Codeforces Rating"
+    />
   </a>
 
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/sumit_chauhan" title="CodeChef">
-    <img src="https://img.shields.io/badge/CodeChef-2050%2B-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" />
+    <img
+      src="https://img.shields.io/badge/CodeChef-2050%2B-orange?style=for-the-badge&logo=codechef&logoColor=white"
+      alt="CodeChef Rating"
+    />
   </a>
 
-  <!-- GFG -->
+  <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/sumit_chauhan143/" title="GeeksforGeeks">
-    <img src="https://img.shields.io/badge/GFG-1985%2B-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Rating" />
+    <img
+      src="https://img.shields.io/badge/GeeksforGeeks-1985%2B-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+      alt="GFG Rating"
+    />
   </a>
 </p>
+
 
 ---
 
