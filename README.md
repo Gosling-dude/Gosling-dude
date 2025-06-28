@@ -17,7 +17,7 @@
 - 🔭 Currently Working On: `HerbiGPT`, `MedScan`  
 - 🤝 Helping peers with CS fundamentals & career guidance  
 - 💬 Ask me about: `Java`, `DSA`, `Competitive Programming`, `Android`, `Career doubts`  
-- 📫 Drop a message: **trueonefalsezero@gmail.com**  
+- 📫 Drop a message: **hello.sumitxchauhan@gmail.com**  
 - 🎵 *I sing better than I debug 😄*
 
 ---
