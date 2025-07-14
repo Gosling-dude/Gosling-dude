@@ -59,7 +59,7 @@
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/SumitXorY" title="Codeforces">
     <img
-      src="https://img.shields.io/badge/Codeforces-1397%2B-blue?style=for-the-badge&logo=codeforces&logoColor=white"
+      src="https://img.shields.io/badge/Codeforces-1500%2B-blue?style=for-the-badge&logo=codeforces&logoColor=white"
       alt="Codeforces Rating"
     />
   </a>
