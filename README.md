@@ -20,6 +20,8 @@
 - 🎵 *I sing better than I debug 😄*
 
 ---
+### 👨‍💻 Code. Compete. Conquer.
+
 <p align="center">
   <a href="https://x.com/SumitCh48587631">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" width="48" alt="Twitter" />
@@ -35,8 +37,12 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/sumit_chauhan">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" width="48" alt="CodeChef" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/SumitXorY">
+    <img src="https://commons.wikimedia.org/wiki/File:Codeforces_logo.svg" width="48" alt="Codeforces" />
   </a>
 </p>
+
 
 ---
 ### 📊 GitHub Stats
@@ -44,43 +50,6 @@
 <p align="center">
   <img src="https://github.com/gosling-dude/gosling-dude/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
-
----
-### 👨‍💻 Code. Compete. Conquer.
-
-<p align="center">
-  <!-- LeetCode Stats Card -->
-  <a href="https://leetcode.com/sumit_chauhan_/">
-    <img src="https://leetcard.jacoblin.cool/sumit_chauhan_?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
-  </a>
-</p>
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/SumitXorY" title="Codeforces">
-    <img
-      src="https://img.shields.io/badge/Codeforces-1500%2B-blue?style=for-the-badge&logo=codeforces&logoColor=white"
-      alt="Codeforces Rating"
-    />
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/sumit_chauhan" title="CodeChef">
-    <img
-      src="https://img.shields.io/badge/CodeChef-2050%2B-orange?style=for-the-badge&logo=codechef&logoColor=white"
-      alt="CodeChef Rating"
-    />
-  </a>
-
-  <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/sumit_chauhan143/" title="GeeksforGeeks">
-    <img
-      src="https://img.shields.io/badge/GeeksforGeeks-1985%2B-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-      alt="GFG Rating"
-    />
-  </a>
-</p>
-
 
 ---
 
