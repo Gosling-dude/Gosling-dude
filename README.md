@@ -54,14 +54,3 @@
 ---
 
 <p align="center"><i>“Code. Build. Fail. Fix. Learn. Repeat.”</i></p>
-
----
-
-<h3 align="left">Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gosling-dude&show_icons=true&locale=en&layout=compact" alt="Gosling-dude" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gosling-dude&show_icons=true&locale=en" alt="Gosling-dude" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gosling-dude&" alt="Gosling-dude" /></p>
-
