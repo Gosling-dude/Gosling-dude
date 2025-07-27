@@ -23,11 +23,6 @@
 ### 👨‍💻 Code. Compete. Conquer.
 
 <p align="center">
-  <a href="https://x.com/SumitCh48587631">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="48" alt="Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sumit-chauhan-006399257/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/sumit_chauhan_/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" alt="LeetCode" />
