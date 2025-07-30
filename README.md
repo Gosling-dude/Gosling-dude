@@ -20,26 +20,6 @@
 - 🎵 *I sing better than I debug 😄*
 
 ---
-### 👨‍💻 Code. Compete. Conquer.
-
-<p align="center">
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/sumit_chauhan_/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" alt="LeetCode" />
-  </a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/sumit_chauhan143">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" alt="GeeksforGeeks" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/sumit_chauhan">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="48" alt="CodeChef" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/SumitXorY">
-    <img src="https://commons.wikimedia.org/wiki/File:Codeforces_logo.svg" width="48" alt="Codeforces" />
-  </a>
-</p>
-
-
----
 ### 📊 GitHub Stats
 
 <p align="center">
