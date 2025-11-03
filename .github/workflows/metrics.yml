@@ -8,10 +8,15 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
           user: Gosling-dude
           output_action: commit
           config_timezone: Asia/Kolkata
