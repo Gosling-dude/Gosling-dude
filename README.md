@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sumit Chauhan</h1>
-<h3 align="center">💻 Software Developer | 🎯 Competitive Programmer | 🧠 Exploring AI & Machine Learning</h3>
+<h3 align="center"> Software Developer | Competitive Programmer | Exploring AI & Machine Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=FF6C00&center=true&vCenter=true&width=440&lines=Java+%7C+AI%2FML+%7C+DSA;Building+real-world+projects;Learning+never+stops+🚀" alt="Typing animation" />
@@ -12,13 +12,13 @@
 
 ---
 
-### 🧠 Who Am I?
+### Who Am I?
 
-- 🎓 CSE Undergraduate @ **NIT Jalandhar**  
-- 🔭 Currently Working On: `HerbiGPT`, `MedScan`  
-- 💬 Ask me about: `Java`, `DSA`, `AI/ML`  
-- 📫 Drop a message: **hello.sumitxchauhan@gmail.com**  
-- 🎵 *I sing better than I debug 😄*
+- CSE Undergraduate @ **NIT Jalandhar**  
+- Currently Working On: `HerbiGPT`, `MedScan`  
+- Ask me about: `Java`, `DSA`, `AI/ML`  
+- Drop a message: **hello.sumitxchauhan@gmail.com**  
+- *I sing better than I debug 😁*
 
 ---
 ### 📊 GitHub Stats
