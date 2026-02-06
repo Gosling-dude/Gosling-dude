@@ -16,9 +16,9 @@
 
 - CSE Undergraduate @ **NIT Jalandhar**  
 - Currently Working On: `HerbiGPT`, `MedScan`  
-- Ask me about: `Java`, `DSA`, `AI/ML`, `CP` 
-- Drop a message: **hello.sumitxchauhan@gmail.com**  
-- I sing better than I debug (^_^)
+- Ask me about: `Java`, `Python`, `C/C++`, `DSA`, `AI/ML`, `CP` 
+- Drop a message: **sumitchauhan.job@gmail.com**  
+- I sing better than I debug 😁
 ---
 
 
