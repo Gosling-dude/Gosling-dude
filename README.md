@@ -20,25 +20,6 @@
 
 ---
 
-## Highlighted Open Source Contributions
-These contributions involved production code, code reviews, CI pipelines, and collaboration with maintainers.
-
-### OpenTelemetry (CNCF Project)
-#### Emit warning when TraceIdRatioBasedSampler is used as child sampler
-PR: https://github.com/open-telemetry/opentelemetry-java/pull/7937
-Added a specification-compliant compatibility warning during configuration while preserving runtime behavior.
-
-#### Clarify suppressed warnings in API common module
-PR: https://github.com/open-telemetry/opentelemetry-java/pull/7951
-Improved maintainability by documenting intentional warning suppressions and clarifying implementation details.
-
-### Google Gemini CLI
-#### Support GOOGLE_CLOUD_PROJECT_ID fallback
-PR: https://github.com/google-gemini/gemini-cli/pull/2725
-Added a backward-compatible environment variable fallback, improving configuration flexibility and developer experience.
-
----
-
 ## Technical Interests
 * Java
 * C++
@@ -53,7 +34,6 @@ Added a backward-compatible environment variable fallback, improving configurati
 ---
 
 ## Current Focus
-* Building and scaling **HerbiGPT** and **CyberFlux**
 * Open Source Contributions
 * Modern C++
 * High-Performance Systems
