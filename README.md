@@ -1,4 +1,5 @@
 # Hi, I'm Sumit Chauhan
+
 ### Software Engineer | Open Source Contributor | Competitive Programmer
 
 <p align="center">
@@ -12,40 +13,38 @@
 ---
 
 ## About Me
-* B.Tech in Computer Science and Engineering at **NIT Jalandhar** (Expected July 2026)
-* Interested in **Backend Engineering, Distributed Systems, Observability, and Quantitative Development**
-* Strong foundation in **Data Structures & Algorithms** (ICPC Asia Taichung Regional 2025 - AIR 23, Global 492)
-* Currently exploring **Modern C++, System Design, and High-Performance Computing**
-* Open to collaborating on impactful open-source projects
 
+* B.Tech in Computer Science & Engineering from **NIT Jalandhar**
+* Interested in **Backend Engineering, Distributed Systems, System Design, and High-Performance Computing**
+* Strong foundation in **Data Structures & Algorithms**
+* **ICPC Asia Taichung Regional 2025 — AIR 23, Global 492**
+* **Codeforces Expert** | Max Rating 2000(Candidate Master)
+* **CodeChef 4★** | Rating 1893 | Global Rank 2220
+* **747+ LeetCode** problems | Knight | Rating 1966
+* **430+ GeeksforGeeks** problems | 4★ | Rating 1968
 ---
 
 ## Technical Interests
+
 * Java
 * C++
 * Data Structures & Algorithms
-* Distributed Systems
-* Observability
 * Backend Development
+* Distributed Systems
 * System Design
 * Machine Learning
+* High-Performance Computing
 * Quantitative Development
 
 ---
 
 ## Current Focus
+
 * Open Source Contributions
+* Backend & Distributed Systems
 * Modern C++
-* High-Performance Systems
-* Quantitative Development
 * Advanced System Design
-
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github.com/gosling-dude/gosling-dude/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
+* Competitive Programming
 
 ---
 
