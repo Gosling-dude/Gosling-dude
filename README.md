@@ -19,9 +19,7 @@
 * Strong foundation in **Data Structures & Algorithms**
 * **ICPC Asia Taichung Regional 2025 — AIR 23, Global 492**
 * **Codeforces Expert** | Max Rating 2000(Candidate Master)
-* **CodeChef 4★** | Rating 1949 | Global Rank 1626
-* **747+ LeetCode** problems | Guardian | Rating 2142
-* **430+ GeeksforGeeks** problems | 4★ | Rating 1968
+* **CodeChef 4★** | Rating 1990 | Global Rank 1284
 ---
 
 ## Technical Interests
